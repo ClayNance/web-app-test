@@ -1,0 +1,46 @@
+# Agile Methodology
+
+#### STRUCTURE: EPIC > FEATURE > STORY > TASK > BUG
+
+
+### Epic
+
+At the top of the hierarchy is the Epic - a large body of work that can be broken down into smaller pieces.
+
+- **Definition:** A large, high-level requirement or feature that is too big to be completed in a single sprint
+- **Example:** "User Account Management System"
+- **Timeframe:** Multiple sprints or releases (weeks to months)
+
+### Feature
+
+Features are components of an Epic that deliver specific functionality.
+
+- **Definition:** A service or capability that fulfills a stakeholder need
+- **Example:** "User Registration Process"
+- **Timeframe:** One or more sprints (weeks)
+
+### User Story
+
+User stories break features down into smaller, manageable pieces.
+
+- **Definition:** A short description of a feature from the end-user perspective
+- **Format:** "As a [user], I want [functionality] so that [benefit]"
+- **Example:** "As a new user, I want to create an account so that I can access the platform"
+- **Timeframe:** Usually one sprint (days to weeks)
+
+### Task
+
+Tasks represent the detailed work needed to complete a user story.
+
+- **Definition:** A specific unit of work that contributes to completing a user story
+- **Example:** "Create database schema for user accounts"
+- **Timeframe:** Hours to days
+
+### Bugs
+
+Bugs are defects found in the implementation.
+
+- **Definition:** A flaw in the system that produces incorrect or unexpected results
+- **Example:** "System crashes when special characters are used in password field"
+- **Priority:** Usually categorized by severity (Critical, Major, Minor)
+- **Timeframe:** Varies based on priority (hours to weeks)
